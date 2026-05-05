@@ -41,6 +41,16 @@ The dataset used in this project is available at:
 6. Prediction
 7. Investment Recommendation
 8. Explainability using SHAP
+
+
+## Results
+- Multiple LSTM and GRU models were trained and evaluated using RMSE and MAE.
+- GRU Dependent model achieved the best performance.
+- The system successfully predicts stock trends and recommends top 10 companies.
+
+## Detailed Results
+Detailed result are stored drive, available here:
+(https://drive.google.com/drive/folders/1KxZgGLyIeU_N52dOW6iD5mwcQ6_nGYUx?usp=sharing)
   
 ## Author
 Tanvi Jadhav
