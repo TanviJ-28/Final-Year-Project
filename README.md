@@ -20,6 +20,7 @@ Deep Learning-based Stock Market Prediction System leveraging LSTM and GRU archi
 - Google Colab
 
 ## Dataset
+Manually downloaded dataset for top 30 Nifty Fifty Companies from NSE Official Website spanning from 2015 to 11 March 2026.
 The dataset used in this project is available at:
 
 (https://drive.google.com/drive/folders/164kO6AWb8lacyuuTtcf9hxy1F9nOzz7D?usp=sharing)
