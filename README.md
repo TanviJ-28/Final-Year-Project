@@ -42,14 +42,10 @@ The dataset used in this project is available at:
 7. Investment Recommendation
 8. Explainability using SHAP
 
-
 ## Results
 - Multiple LSTM and GRU models were trained and evaluated using RMSE and MAE.
 - GRU Dependent model achieved the best performance.
 - The system successfully predicts stock trends and recommends top 10 companies.
-- Sample Results
-  
-  ![GRU DEPENDENT Training vs Validation Loss](results/HDFC_Bank_Ltd_gru_dep_history.png)
 
 ## Detailed Results
 Detailed result are stored drive, available here:
