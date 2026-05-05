@@ -48,7 +48,8 @@ The dataset used in this project is available at:
 - GRU Dependent model achieved the best performance.
 - The system successfully predicts stock trends and recommends top 10 companies.
 - Sample Results
-  (results/HDFC_Bank_Ltd_gru_dep_history.png)
+  
+  ![GRU DEPENDENT Training vs Validation Loss](results/HDFC_Bank_Ltd_gru_dep_history.png)
 
 ## Detailed Results
 Detailed result are stored drive, available here:
