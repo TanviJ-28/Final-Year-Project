@@ -52,5 +52,3 @@ Detailed result are stored drive, available here:
 
 (https://drive.google.com/drive/folders/1KxZgGLyIeU_N52dOW6iD5mwcQ6_nGYUx?usp=sharing)
   
-## Author
-Tanvi Jadhav
